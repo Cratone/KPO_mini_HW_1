@@ -1,5 +1,4 @@
-﻿using Xunit;
-using KPO_mini_HW_1;
+﻿using KPO_mini_HW_1;
 
 namespace Tests;
 
